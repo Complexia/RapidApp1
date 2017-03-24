@@ -1,0 +1,134 @@
+[
+  {
+    "country": "Germany",
+    "countryCode": "DE",
+    "name": "Berlin",
+    "parentid": 0,
+    "placeType": {
+      "code": 88,
+      "name": "City"
+    },
+    "url": "http://where.yahooapis.com/v1/place/12415131",
+    "woeid": 189565
+  },
+  {
+    "country": "Netherlands",
+    "countryCode": "NLD",
+    "name": "Utrecht",
+    "parentid": 0,
+    "placeType": {
+      "code": 1002,
+      "name": "City"
+    },
+    "url": "http://where.yahooapis.com/v1/place/23167893",
+    "woeid": 2123
+  },
+  {
+    "country": "Chile",
+    "countryCode": "CHL",
+    "name": "Santiago",
+    "parentid": 0,
+    "placeType": {
+      "code": 1231,
+      "name": "City"
+    },
+    "url": "http://where.yahooapis.com/v1/place/23122123",
+    "woeid": 54794
+  },
+  {
+    "country": "Thailand",
+    "countryCode": "THA",
+    "name": "Bangkok",
+    "parentid": 0,
+    "placeType": {
+      "code": 1456,
+      "name": "City"
+    },
+    "url": "http://where.yahooapis.com/v1/place/67455321",
+    "woeid": 21214
+  },
+  {
+    "country": "China",
+    "countryCode": "CN",
+    "name": "Wuxi",
+    "parentid": 0,
+    "placeType": {
+      "code": 2,
+      "name": "Town"
+    },
+    "url": "http://where.yahooapis.com/v1/place/22114954",
+    "woeid": 13452251
+  },
+  {
+    "country": "Australia",
+    "countryCode": "AU",
+    "name": "Melbourne",
+    "parentid": 12314,
+    "placeType": {
+      "code": 45,
+      "name": "City"
+    },
+    "url": "http://where.yahooapis.com/v1/place/12412412",
+    "woeid": 44332
+  },
+  {
+    "country": "Sweden",
+    "countryCode": "SE",
+    "name": "Sweden",
+    "parentid": 1,
+    "placeType": {
+      "code": 22,
+      "name": "Country"
+    },
+    "url": "http://where.yahooapis.com/v1/place/23424954",
+    "woeid": 23424954
+  },
+  {
+    "country": "United States",
+    "countryCode": "US",
+    "name": "New Haven",
+    "parentid": 23424977,
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http://where.yahooapis.com/v1/place/2458410",
+    "woeid": 2458410
+  },
+  {
+    "country": "Japan",
+    "countryCode": "JP",
+    "name": "Sapporo",
+    "parentid": 23424856,
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http://where.yahooapis.com/v1/place/1118108",
+    "woeid": 1118108
+  },
+  {
+    "country": "United States",
+    "countryCode": "US",
+    "name": "Providence",
+    "parentid": 23424977,
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http://where.yahooapis.com/v1/place/2477058",
+    "woeid": 2477058
+  },
+  {
+    "country": "United States",
+    "countryCode": "US",
+    "name": "Cincinnati",
+    "parentid": 23424977,
+    "placeType": {
+      "code": 7,
+      "name": "Town"
+    },
+    "url": "http://where.yahooapis.com/v1/place/2380358",
+    "woeid": 2380358
+  }
+]
